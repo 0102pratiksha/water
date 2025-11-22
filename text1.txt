@@ -31,7 +31,7 @@ https://portswigger.net/burp/communitydownload
 https://git-scm.com/install/windows
 
 
-Trivy: 
+11) Trivy: 
 
 1st)
 
@@ -43,8 +43,19 @@ sudo dpkg -i trivy_0.66.0_Linux-64bit.deb
 
 
 
-pentbox:
+12) pentbox:
 
   wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz  
 
   tar xvfz pentbox-1.8.tar.gz  
+
+13) Nessus : 
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+
+14) snaptube:
+https://www.snaptube.com/download-snaptube/
+
+15) Zarchiver:
+https://apkpure.net/zarchiver-2025/ru.zdevs.zarchiver/download#google_vignette
+
+
